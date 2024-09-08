@@ -31,7 +31,7 @@ Este projeto está licenciado sob a licença [Escolha a licença apropriada, com
 
 ## Autor
 
-[Seu nome]
+[Seu nome] Imersão feita com Alura e Google Gemini
 [Seu email]
 
 ## Arquivos Importantes
